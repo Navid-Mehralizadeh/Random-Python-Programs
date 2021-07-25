@@ -11,3 +11,5 @@ Here are some programs that were fun to code.
 4- [String reverse](https://github.com/Navid-Mehralizadeh/Random-Python-Programs/blob/33489e7511eac6f9b7f8ca043635d4ddb322fedf/String-Reverse/string_reverse.py)
 
 5- [IP lookup](https://github.com/Navid-Mehralizadeh/Random-Python-Programs/blob/5e0a61e613608168f1cbd02dcc472d3d891ce7b9/IP-Lookup/ip_lookup.py)
+
+6- [CCG](https://github.com/Navid-Mehralizadeh/Random-Python-Programs/blob/b6436ca9a0b41fc608a2b554d62f07a55ad5036c/CCG/CCG.py)
