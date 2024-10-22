@@ -15,3 +15,5 @@ Here are some programs that were fun to code.
 6- [CCG](https://github.com/Navid-Mehralizadeh/Random-Python-Programs/blob/b6436ca9a0b41fc608a2b554d62f07a55ad5036c/CCG/CCG.py)
 
 7- [Pong](https://github.com/Navid-Mehralizadeh/Random-Python-Programs/blob/ea20c98e0f24c7bd461f948a2c92faff94b8cce1/Pong/pong.py)
+
+8- [CountryInfo]
