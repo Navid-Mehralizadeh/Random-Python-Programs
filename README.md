@@ -17,3 +17,5 @@ Here are some programs that were fun to code.
 7- [Pong](https://github.com/Navid-Mehralizadeh/Random-Python-Programs/blob/ea20c98e0f24c7bd461f948a2c92faff94b8cce1/Pong/pong.py)
 
 8- [CountryInfo](Countryinfo.ipynb)
+
+9- [Real-time Stock Price Data Visualization]
