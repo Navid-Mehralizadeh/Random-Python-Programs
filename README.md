@@ -18,4 +18,4 @@ Here are some programs that were fun to code.
 
 8- [CountryInfo](Countryinfo.ipynb)
 
-9- [Real-time Stock Price Data Visualization]
+9- [Real-time Stock Price Data Visualization](Real-time Stock Price Data Visualization)
