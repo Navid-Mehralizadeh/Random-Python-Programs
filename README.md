@@ -19,3 +19,5 @@ Here are some programs that were fun to code.
 8- [CountryInfo](Countryinfo.ipynb)
 
 9- [Real-time Stock Price Data Visualization](https://github.com/Navid-Mehralizadeh/Random-Python-Programs/tree/main/Real-time%20Stock%20Price%20Data%20Visualization)
+
+10- [Web Scraper](https://github.com/Navid-Mehralizadeh/Random-Python-Programs/tree/main/Web%20Scraper)
